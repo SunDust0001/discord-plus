@@ -18,7 +18,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://kartinkin.net/pics/uploads/posts/2022-09/1662060370_13-kartinkin-net-p-fioletovii-fon-s-liniyami-krasivo-13.jpg);
+  --dplus-backdrop: url(https://images5.alphacoders.com/116/thumb-1920-1168976.png);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 320;
@@ -26,10 +26,10 @@
   --dplus-accent-color-lightness: 40%;
 
 /* Foreground color: For things like text and icons. */
-  --dplus-foreground-color-hue-base: 250;
+  --dplus-foreground-color-hue-base: 1;
   --dplus-foreground-color-hue-links: 64;
-  --dplus-foreground-color-saturation-amount: 30;
-  --dplus-foreground-color-lightness-amount: 1;
+  --dplus-foreground-color-saturation-amount: 100;
+  --dplus-foreground-color-lightness-amount: 50;
 
 /* Background color: Covers the backdrop so the app is easier to read. */
   --dplus-background-color-hue: 320;
