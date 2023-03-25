@@ -21,7 +21,7 @@
   --dplus-backdrop: url(https://images5.alphacoders.com/116/thumb-1920-1168976.png);
 
 /* Accent color, used to decorate the UI with colors. */
-  --dplus-accent-color-hue: 320;
+  --dplus-accent-color-hue: 1;
   --dplus-accent-color-saturation: 60%;
   --dplus-accent-color-lightness: 40%;
 
