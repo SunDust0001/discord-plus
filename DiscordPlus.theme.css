@@ -47,7 +47,7 @@
   --dplus-accent-color-lightness: 50%;
   
   --dplus-foreground-color-hue-base: 250;
-  --dplus-foreground-color-hue-links: 64;
+  --dplus-foreground-color-hue-links: 1;
   --dplus-foreground-color-saturation-amount: 10;
   --dplus-foreground-color-lightness-amount: 1.5;
 
@@ -61,7 +61,7 @@
 /* Fonts */
 /* You can use any installed font on your device. */
   --dplus-font-ui: 'COMIS SANS MS';
-  --dplus-font-body: 'VCROSDMonoRUSbyD';
+  --dplus-font-body: 'Blue curve Light';
   --dplus-font-header: 'old soviet';
 
 /* Round corner sizes, measured in pixel radius.
