@@ -54,7 +54,7 @@
   --dplus-background-color-hue: 0;
   --dplus-background-color-saturation-amount: 100;
   --dplus-background-color-lightness-amount: 100;
-  --dplus-background-color-alpha: 0.6;
+  --dplus-background-color-alpha: 0.8;
 }
 
 :root {
@@ -62,7 +62,7 @@
 /* You can use any installed font on your device. */
   --dplus-font-ui: 'COMIS SANS MS';
   --dplus-font-body: 'BrokenLed Regular';
-  --dplus-font-header: 'Franklin Gothic Medium';
+  --dplus-font-header: 'old soviet';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
