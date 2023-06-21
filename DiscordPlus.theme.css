@@ -54,7 +54,7 @@
   --dplus-background-color-hue: 60;
   --dplus-background-color-saturation-amount: 100;
   --dplus-background-color-lightness-amount: 100;
-  --dplus-background-color-alpha: 0.8;
+  --dplus-background-color-alpha: 0;
 }
 
 :root {
