@@ -44,15 +44,15 @@
   
   --dplus-accent-color-hue: 200;
   --dplus-accent-color-saturation: 100%;
-  --dplus-accent-color-lightness: 50%;
+  --dplus-accent-color-lightness: 100%;
   
-  --dplus-foreground-color-hue-base: 250;
+  --dplus-foreground-color-hue-base: 0;
   --dplus-foreground-color-hue-links: 1;
   --dplus-foreground-color-saturation-amount: 10;
-  --dplus-foreground-color-lightness-amount: 1.5;
+  --dplus-foreground-color-lightness-amount: 0;
 
-  --dplus-background-color-hue: 300;
-  --dplus-background-color-saturation-amount: 0.9;
+  --dplus-background-color-hue: 60;
+  --dplus-background-color-saturation-amount: 100;
   --dplus-background-color-lightness-amount: 1;
   --dplus-background-color-alpha: 0.8;
 }
