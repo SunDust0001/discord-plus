@@ -42,9 +42,9 @@
 .theme-light {
   --dplus-backdrop: url(https://wallpapertops.com/walldb/original/c/a/3/768246.jpg);
   
-  --dplus-accent-color-hue: 60;
+  --dplus-accent-color-hue: 190;
   --dplus-accent-color-saturation: 100%;
-  --dplus-accent-color-lightness: 50%;
+  --dplus-accent-color-lightness: 60%;
   
   --dplus-foreground-color-hue-base: 0;
   --dplus-foreground-color-hue-links: 1;
